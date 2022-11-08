@@ -25,6 +25,16 @@
 ## **Git commands**
 |Command Line|Description|
 |------------|-----------|
+|git init    |Creates a new local git repository|
+|ls -a       |Lists github files                |
+|git add .   |adds the changes made in the current directory|
+|git commit -m"insert text here"|Records the changes that have been made. You must include a message that describes what has been changed|
+|git status| Displays the state of the working directory and the staging area|
+|git log| Shows the history of the repository|
+|git remote|Links local repository with Github|
+
+
+
 
 
 
