@@ -1,4 +1,4 @@
-# Terminal and Github Cheatsheet
+# Terminal and Github Cheatsheet :page_with_curl:
 ## Date: 8/11/2022
 ### This file contains a list of commands that are normally used when working with the Terminal, Git and Github. Happy coding! :grin:
 
@@ -39,9 +39,3 @@
 |git log| Shows the history of the repository|
 |git remote|Links local repository with Github|
 |git push|Uploads the local repository to the github repository|
-
-
-
-
-
-
