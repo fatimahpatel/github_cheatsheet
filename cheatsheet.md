@@ -14,4 +14,6 @@
 |pwd           |prints the path for the current working directory (the directory you are currently in)|
 |touch         |Creates a new file|
 |rm            |removes a file (not a directory)|
+|code .        |Opens directory and files on visual studio code| 
+|history       |prints history of command lines|
 
