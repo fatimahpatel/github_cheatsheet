@@ -15,10 +15,13 @@
 |ls -al        | Lists hidden and unhidden directories and files|
 |cd            | Change directories|
 |cd ..         |Go the parent directory|
+|cd directory1/directory2| Enters a directory found within another directory|
 |pwd           |Prints the path for the current working directory (the directory you are currently in)|
 |touch         |Creates a new file |
 |open          |Opens file          |
 |rm            |Removes a file (not a directory)|
+|rm -r         |Removes a directory, may ask if you are sure about removing (BE CAUTIOUS)|
+|rm -rf        |Forcefully removes a directory without asking if you are sure about removing (BE EXTRA CAUTIOUS - CAN RESET COMPUTER)|
 |cp            |Copies a file|
 |code .        |Opens directory and files on visual studio code| 
 |history       |Prints history of command lines|
