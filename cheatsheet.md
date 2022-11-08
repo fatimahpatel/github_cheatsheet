@@ -10,4 +10,8 @@
 |mkdir         | Makes a new directory|
 |ls            | Lists the files or directories|
 |cd            | Change directories|
-|cd .          |
+|cd ..         |Go the parent directory|
+|pwd           |prints the path for the current working directory (the directory you are currently in)|
+|touch         |Creates a new file|
+|rm            |removes a file (not a directory)|
+
