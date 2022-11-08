@@ -32,6 +32,8 @@
 |git status| Displays the state of the working directory and the staging area|
 |git log| Shows the history of the repository|
 |git remote|Links local repository with Github|
+|git push|Uploads the local repository to the github repository|
+
 
 
 
