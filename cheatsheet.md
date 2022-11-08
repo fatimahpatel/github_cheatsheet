@@ -5,6 +5,8 @@
 
 
 ## **Terminal Commands**
+
+
 | Command Line |Description|
 |--------------|-----------|
 |mkdir         | Makes a new directory|
@@ -13,22 +15,23 @@
 |ls -al        | Lists hidden and unhidden directories and files|
 |cd            | Change directories|
 |cd ..         |Go the parent directory|
-|pwd           |prints the path for the current working directory (the directory you are currently in)|
+|pwd           |Prints the path for the current working directory (the directory you are currently in)|
 |touch         |Creates a new file |
 |open          |Opens file          |
-|rm            |removes a file (not a directory)|
+|rm            |Removes a file (not a directory)|
 |cp            |Copies a file|
 |code .        |Opens directory and files on visual studio code| 
-|history       |prints history of command lines|
+|history       |Prints history of command lines|
 |mv            |Moves a file|
 
 ## **Git commands**
+
 |Command Line|Description|
 |------------|-----------|
 |git init    |Creates a new local git repository|
 |ls -a       |Lists github files                |
-|git add .   |adds the changes made in the current directory|
-|git commit -m"insert text here"|Records the changes that have been made. You must include a message that describes what has been changed|
+|git add .   |Adds the changes made in the current directory|
+|git commit -m"insert text here"|Records the changes that have been made. You must include a message that describes what has been changed. This comes after you have staged the changes you have made in your current directory|
 |git status| Displays the state of the working directory and the staging area|
 |git log| Shows the history of the repository|
 |git remote|Links local repository with Github|
